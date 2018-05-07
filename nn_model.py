@@ -23,9 +23,8 @@ Target:
     is_attributed:    target that is to be predicted, indicating the app was downloaded
     
 The evaluation is based on AUC-ROC score.
-This model gets score 0.9669 in test test.
+This model gets score 0.9669 in test set.
     
-
 """
 
 import os
