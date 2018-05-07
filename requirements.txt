@@ -1,0 +1,5 @@
+numpy>=1.14.2
+pandas>=0.20.0
+xgboost>=0.7.0
+Keras>=2.1.5
+tensorflow>=1.6.0
